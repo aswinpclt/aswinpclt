@@ -1,86 +1,128 @@
-You are an expert GitHub profile designer, technical writer, UI/UX designer, front-end developer, recruiter, and branding specialist.
+You are the world's best GitHub Profile Designer, Senior UI/UX Designer, Technical Writer, Front-End Engineer, Markdown Expert, HTML Designer, Open Source Maintainer, Recruiter, Software Architect, Personal Branding Expert, and ATS Resume Specialist.
 
-Your task is to create a COMPLETE premium GitHub Profile README.md that looks like the top 1% GitHub profiles.
+Your job is to create the MOST BEAUTIFUL, PREMIUM, RECRUITER-FRIENDLY GitHub Profile README ever created.
 
-IMPORTANT
+The design quality should be comparable to the Top 1% GitHub Profiles.
 
-This profile is for an ENTRY-LEVEL SOFTWARE DEVELOPER.
+The README must feel like a premium personal portfolio while still remaining completely compatible with GitHub Markdown.
 
-Do NOT call me Senior.
+══════════════════════════════════════════════
+VERY IMPORTANT
+══════════════════════════════════════════════
 
-Do NOT invent work experience.
+This profile belongs to an ENTRY-LEVEL SOFTWARE DEVELOPER.
 
-Do NOT invent projects.
+DO NOT CALL ME
 
-Only use the information from my uploaded resume.
+Senior Developer
 
-====================================================
-PERSONAL DETAILS
-====================================================
+Lead Developer
 
-Name:
+Software Architect
+
+Principal Engineer
+
+Tech Lead
+
+Staff Engineer
+
+DO NOT invent work experience.
+
+DO NOT invent internships.
+
+DO NOT invent certifications.
+
+DO NOT invent projects.
+
+Everything must be extracted ONLY from the uploaded resume.
+
+══════════════════════════════════════════════
+PERSONAL INFORMATION
+══════════════════════════════════════════════
+
+Name
+
 ASWIN P
 
-Professional Title:
-Python Developer | Django Developer | AI Enthusiast
+Professional Title
 
-GitHub Username:
+Python Developer
+Django Developer
+AI Enthusiast
+
+GitHub Username
+
 aswinpclt
 
-GitHub Profile:
+GitHub
+
 https://github.com/aswinpclt
 
-LinkedIn:
+LinkedIn
+
 https://www.linkedin.com/in/aswin-p-591473420
 
-Email:
+Email
+
 aswinp.clt2002@gmail.com
 
-====================================================
-LOCAL FILES
-====================================================
+══════════════════════════════════════════════
+FILES PROVIDED
+══════════════════════════════════════════════
 
-Resume:
+Resume
+
 resume.pdf
 
-Banner:
+Banner
+
 assets/banner.jpg
 
-Coding Animation:
+Coding Animation
+
 assets/coding-animation.gif
 
-====================================================
-USE MY RESUME TO EXTRACT
-====================================================
+══════════════════════════════════════════════
+AUTOMATICALLY EXTRACT FROM RESUME
+══════════════════════════════════════════════
 
-Automatically extract
+Professional Summary
 
-• Professional Summary
-• Education
-• Skills
-• Technical Skills
-• Programming Languages
-• Frameworks
-• Databases
-• AI / Machine Learning
-• Projects
-• Certifications
-• Internship
-• Experience
-• Achievements
-• Technologies
+Education
 
-Do not invent information.
+Programming Languages
 
-====================================================
-README STYLE
-====================================================
+Frameworks
 
-Create a recruiter-friendly profile.
+Libraries
 
-Theme:
+Databases
 
-Dark
+Tools
+
+Projects
+
+Technical Skills
+
+Soft Skills
+
+Certifications
+
+Achievements
+
+Experience (if available)
+
+Internships (if available)
+
+Technologies
+
+Everything must come ONLY from the resume.
+
+══════════════════════════════════════════════
+DESIGN STYLE
+══════════════════════════════════════════════
+
+Dark Theme
 
 Glassmorphism
 
@@ -88,29 +130,41 @@ Modern
 
 Premium
 
-Futuristic
+Elegant
 
 Responsive
 
-Beautiful spacing
+Professional
 
-Professional typography
+Minimal but Beautiful
 
-Looks similar to the best GitHub Profiles.
+Top GitHub Profile Quality
 
-====================================================
+Excellent spacing
+
+Rounded Cards
+
+Beautiful Typography
+
+Modern Tables
+
+Eye-catching Sections
+
+Professional Color Palette
+
+Recruiter Friendly
+
+══════════════════════════════════════════════
 README STRUCTURE
-====================================================
+══════════════════════════════════════════════
 
-# Hero Banner
+1. Premium Hero Banner
 
-Use
+Display
 
 <img src="assets/banner.jpg" width="100%">
 
-====================================================
-
-Animated Typing
+2. Animated Typing Header
 
 Use Readme Typing SVG
 
@@ -130,43 +184,41 @@ Open Source Learner
 
 Always Learning New Technologies
 
-====================================================
+Backend Engineer
 
-Professional Introduction
+3. Professional Introduction
 
-Write a concise recruiter-friendly introduction.
+Write an ATS-friendly recruiter introduction.
 
 Mention
 
-Entry-level Python Developer
+Entry-Level Python Developer
 
-Backend Developer
+Backend Development
 
-Strong Django fundamentals
-
-REST API Development
-
-Machine Learning
+REST APIs
 
 AI
 
-Backend Systems
+Machine Learning
 
-Problem Solver
+Problem Solving
 
-====================================================
+Django
 
-Resume Button
+FastAPI
+
+Real-world Projects
+
+Do NOT exaggerate.
+
+4. Resume Button
 
 Use
 
-<a href="resume.pdf">
-<img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge">
-</a>
+resume.pdf
 
-====================================================
-
-Social Buttons
+5. Social Buttons
 
 GitHub
 
@@ -176,45 +228,37 @@ Email
 
 LeetCode
 
-HackerRank
-
 GeeksforGeeks
 
 CodeChef
 
-Use Shields.io badges.
+HackerRank
 
-====================================================
+Use Shields.io
 
-Visitor Counter
+Premium Style
 
-Use Komarev visitor counter.
+6. Visitor Counter
 
-====================================================
-
-About Me
+7. About Me
 
 Display
 
 <img src="assets/coding-animation.gif" width="420">
 
-Write professionally.
-
 Mention
 
-Passionate Python Developer
+Python Developer
 
 Django Backend Developer
 
 AI Enthusiast
 
-Interested in Machine Learning
+Machine Learning Learner
 
-Backend Development
+Backend Developer
 
-REST APIs
-
-Learning Cloud
+REST API Developer
 
 Building Real-world Projects
 
@@ -224,9 +268,7 @@ Looking for Internship
 
 Looking for Entry-Level Opportunities
 
-====================================================
-
-Tech Stack
+8. Tech Stack
 
 Automatically detect technologies from my resume.
 
@@ -254,11 +296,11 @@ GitHub
 
 GitHub Actions
 
+Docker
+
 SQLite
 
 MySQL
-
-Docker
 
 Linux
 
@@ -268,13 +310,11 @@ Postman
 
 Markdown
 
-Use Skill Icons.
+Use Skill Icons
 
-====================================================
+9. Skills
 
-Skills
-
-Create beautiful tables.
+Create beautiful tables
 
 Backend Development
 
@@ -282,35 +322,35 @@ REST APIs
 
 Authentication
 
-Database Design
-
 Python Programming
 
-Problem Solving
+Database Design
 
-Data Structures
-
-Object Oriented Programming
-
-AI Integration
+CRUD Operations
 
 Machine Learning
+
+AI Integration
 
 API Development
 
 Git Version Control
 
-====================================================
+Problem Solving
 
-Projects
+Data Structures
 
-Automatically create premium project cards.
+Object-Oriented Programming
+
+10. Featured Projects
+
+Automatically generate premium project cards.
 
 Each card must include
 
 Project Name
 
-Short Description
+Description
 
 Technologies
 
@@ -318,31 +358,27 @@ Features
 
 GitHub Button
 
-Nice modern layout.
+Nice Icons
 
-Use ONLY projects found in the resume.
+Modern Layout
 
-====================================================
+Beautiful Card Design
 
-Education
+ONLY use projects from my resume.
 
-Generate beautiful education table.
+11. Education
 
-====================================================
+Generate attractive education cards.
 
-Certifications
+12. Certifications
 
-Generate attractive certification section.
+Generate premium certification cards.
 
-====================================================
-
-Achievements
+13. Achievements
 
 Generate from resume only.
 
-====================================================
-
-GitHub Analytics
+14. GitHub Analytics
 
 Include
 
@@ -356,35 +392,31 @@ GitHub Activity Graph
 
 GitHub Trophy
 
-Contribution Graph
+Contribution Snake Animation (if supported)
 
 GitHub Profile Summary Cards
 
-====================================================
+Contribution Graph
 
-Competitive Programming
+Visitor Counter
 
-Include badges for
+15. Competitive Programming
+
+Include badges only
 
 LeetCode
 
-GeeksforGeeks
-
 CodeChef
+
+GeeksforGeeks
 
 HackerRank
 
 Do NOT invent usernames.
 
-Only create profile buttons.
+16. Contact Section
 
-====================================================
-
-Contact
-
-Professional contact section.
-
-Include badges
+Premium Contact Cards
 
 GitHub
 
@@ -392,62 +424,66 @@ LinkedIn
 
 Email
 
-====================================================
+17. Footer
 
-Footer
+Animated Wave
 
-Animated wave footer.
+Thank You Message
 
-Thank You message.
+Animated Typing Footer
 
-Animated typing footer.
+Premium Closing Section
 
-====================================================
+══════════════════════════════════════════════
+DESIGN REQUIREMENTS
+══════════════════════════════════════════════
 
-Design Rules
+Use HTML wherever it improves appearance.
 
-Use
+Use Markdown where appropriate.
 
-HTML
+Use responsive tables.
 
-Markdown
+Use premium cards.
 
-Beautiful Tables
+Use beautiful spacing.
 
-Rounded Cards
+Use centered layouts.
 
-Glassmorphism
+Use rounded cards.
 
-Responsive HTML
+Use hover badges.
 
-Hover Buttons
+Use modern dividers.
 
-Modern Dividers
+Use premium GitHub widgets.
 
-Premium Spacing
+Use attractive emoji.
 
-Dark Theme
+Keep everything responsive.
 
-Professional Layout
+══════════════════════════════════════════════
+OUTPUT RULES
+══════════════════════════════════════════════
 
-Recruiter Friendly
-
-No clutter.
-
-====================================================
-
-IMPORTANT
-
-Output ONLY README.md
+Output ONLY README.md.
 
 No explanation.
 
 No markdown fences.
 
-No placeholders.
+No placeholder text.
 
-No TODOs.
+No TODO comments.
 
-Do not shorten anything.
+No fake experience.
 
-Generate a complete README ready to paste directly into GitHub.
+No fake projects.
+
+No fake certifications.
+
+No fake GitHub repositories.
+
+The README must be ready to paste directly into GitHub.
+
+The final result should look like the best GitHub profiles on GitHub while accurately representing an entry-level Python developer.
