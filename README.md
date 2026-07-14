@@ -1,489 +1,150 @@
-You are the world's best GitHub Profile Designer, Senior UI/UX Designer, Technical Writer, Front-End Engineer, Markdown Expert, HTML Designer, Open Source Maintainer, Recruiter, Software Architect, Personal Branding Expert, and ATS Resume Specialist.
+<div align="center">
 
-Your job is to create the MOST BEAUTIFUL, PREMIUM, RECRUITER-FRIENDLY GitHub Profile README ever created.
+<img src="assets/banner.jpg" width="100%" alt="Profile Banner"/>
 
-The design quality should be comparable to the Top 1% GitHub Profiles.
+<br/>
 
-The README must feel like a premium personal portfolio while still remaining completely compatible with GitHub Markdown.
+<h1>Hi There 👋, I'm <a href="https://github.com/YOUR_USERNAME">Your Name</a></h1>
+<h3>Full Stack Developer | Problem Solver | Open Source Enthusiast</h3>
 
-══════════════════════════════════════════════
-VERY IMPORTANT
-══════════════════════════════════════════════
+<p>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/YOUR_USERNAME"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
 
-This profile belongs to an ENTRY-LEVEL SOFTWARE DEVELOPER.
+<a href="resume.pdf">
+  <img src="https://img.shields.io/badge/📄 Download_Resume-FF5722?style=for-the-badge&logoColor=white"/>
+</a>
 
-DO NOT CALL ME
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet" alt="Visitor Count"/>
 
-Senior Developer
+</div>
 
-Lead Developer
+<br/>
 
-Software Architect
+## ⚡ About Me
 
-Principal Engineer
+<img align="right" src="assets/coding-animation.gif" width="380"/>
 
-Tech Lead
+- 🔭 I'm currently working on **your current project**
+- 🌱 I'm currently learning **your current learning focus**
+- 👯 I'm looking to collaborate on **type of projects**
+- 💬 Ask me about **your strong topics**
+- 📫 Reach me at **your.email@gmail.com**
+- ⚡ Fun fact: **something interesting about you**
 
-Staff Engineer
+<br clear="right"/>
 
-DO NOT invent work experience.
+---
 
-DO NOT invent internships.
+## 🏆 Competitive Programming
 
-DO NOT invent certifications.
+<div align="center">
 
-DO NOT invent projects.
+| Platform | Rating | Rank | Profile |
+|---|---|---|---|
+| LeetCode | XXX | Top X% | [Visit](https://leetcode.com/YOUR_USERNAME) |
+| CodeChef | X★ | XXX | [Visit](https://www.codechef.com/users/YOUR_USERNAME) |
+| Codeforces | XXXX | Specialist | [Visit](https://codeforces.com/profile/YOUR_USERNAME) |
 
-Everything must be extracted ONLY from the uploaded resume.
+</div>
 
-══════════════════════════════════════════════
-PERSONAL INFORMATION
-══════════════════════════════════════════════
+---
 
-Name
+## 🛠️ Tech Stack
 
-ASWIN P
+<div align="center">
 
-Professional Title
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,react,nodejs,python,docker,git,github,mongodb,postgres,firebase,nextjs,express" />
 
-Python Developer
-Django Developer
-AI Enthusiast
+</div>
 
-GitHub Username
+---
 
-aswinpclt
+## 📊 GitHub Analytics
 
-GitHub
+<div align="center">
 
-https://github.com/aswinpclt
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="49%"/>
 
-LinkedIn
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" width="98%"/>
 
-https://www.linkedin.com/in/aswin-p-591473420
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" width="49%"/>
 
-Email
+</div>
 
-aswinp.clt2002@gmail.com
+---
 
-══════════════════════════════════════════════
-FILES PROVIDED
-══════════════════════════════════════════════
+## 🚀 Projects
 
-Resume
+<div align="center">
 
-resume.pdf
+<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=radical&hide_border=true"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=radical&hide_border=true"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_THREE&theme=radical&hide_border=true"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_FOUR&theme=radical&hide_border=true"/>
+</a>
 
-Banner
+</div>
 
-assets/banner.jpg
+---
 
-Coding Animation
+## 💼 Experience
 
-assets/coding-animation.gif
+**Job Title** — Company Name  
+*Month Year – Present*
+- Key responsibility or achievement
+- Key responsibility or achievement
 
-══════════════════════════════════════════════
-AUTOMATICALLY EXTRACT FROM RESUME
-══════════════════════════════════════════════
+**Job Title** — Company Name  
+*Month Year – Month Year*
+- Key responsibility or achievement
+- Key responsibility or achievement
 
-Professional Summary
+---
 
-Education
+## 🏅 Achievements
 
-Programming Languages
+- 🥇 Achievement one
+- 🥈 Achievement two
+- 🏆 Achievement three
 
-Frameworks
+---
 
-Libraries
+## 🌐 Open Source
 
-Databases
+- Contributed to [Project Name](https://github.com/org/project)
+- Maintainer of [Your Project](https://github.com/YOUR_USERNAME/project)
 
-Tools
+---
 
-Projects
+## 📬 Contact Me
 
-Technical Skills
+<div align="center">
 
-Soft Skills
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-Certifications
+</div>
 
-Achievements
+<div align="center">
 
-Experience (if available)
+---
 
-Internships (if available)
+⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME) — Thanks for stopping by!
 
-Technologies
-
-Everything must come ONLY from the resume.
-
-══════════════════════════════════════════════
-DESIGN STYLE
-══════════════════════════════════════════════
-
-Dark Theme
-
-Glassmorphism
-
-Modern
-
-Premium
-
-Elegant
-
-Responsive
-
-Professional
-
-Minimal but Beautiful
-
-Top GitHub Profile Quality
-
-Excellent spacing
-
-Rounded Cards
-
-Beautiful Typography
-
-Modern Tables
-
-Eye-catching Sections
-
-Professional Color Palette
-
-Recruiter Friendly
-
-══════════════════════════════════════════════
-README STRUCTURE
-══════════════════════════════════════════════
-
-1. Premium Hero Banner
-
-Display
-
-<img src="assets/banner.jpg" width="100%">
-
-2. Animated Typing Header
-
-Use Readme Typing SVG
-
-Rotate
-
-Python Developer
-
-Django Developer
-
-Backend Developer
-
-AI Enthusiast
-
-Machine Learning Learner
-
-Open Source Learner
-
-Always Learning New Technologies
-
-Backend Engineer
-
-3. Professional Introduction
-
-Write an ATS-friendly recruiter introduction.
-
-Mention
-
-Entry-Level Python Developer
-
-Backend Development
-
-REST APIs
-
-AI
-
-Machine Learning
-
-Problem Solving
-
-Django
-
-FastAPI
-
-Real-world Projects
-
-Do NOT exaggerate.
-
-4. Resume Button
-
-Use
-
-resume.pdf
-
-5. Social Buttons
-
-GitHub
-
-LinkedIn
-
-Email
-
-LeetCode
-
-GeeksforGeeks
-
-CodeChef
-
-HackerRank
-
-Use Shields.io
-
-Premium Style
-
-6. Visitor Counter
-
-7. About Me
-
-Display
-
-<img src="assets/coding-animation.gif" width="420">
-
-Mention
-
-Python Developer
-
-Django Backend Developer
-
-AI Enthusiast
-
-Machine Learning Learner
-
-Backend Developer
-
-REST API Developer
-
-Building Real-world Projects
-
-Open Source Learner
-
-Looking for Internship
-
-Looking for Entry-Level Opportunities
-
-8. Tech Stack
-
-Automatically detect technologies from my resume.
-
-Also include
-
-Python
-
-Django
-
-FastAPI
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Bootstrap
-
-Tailwind CSS
-
-Git
-
-GitHub
-
-GitHub Actions
-
-Docker
-
-SQLite
-
-MySQL
-
-Linux
-
-VS Code
-
-Postman
-
-Markdown
-
-Use Skill Icons
-
-9. Skills
-
-Create beautiful tables
-
-Backend Development
-
-REST APIs
-
-Authentication
-
-Python Programming
-
-Database Design
-
-CRUD Operations
-
-Machine Learning
-
-AI Integration
-
-API Development
-
-Git Version Control
-
-Problem Solving
-
-Data Structures
-
-Object-Oriented Programming
-
-10. Featured Projects
-
-Automatically generate premium project cards.
-
-Each card must include
-
-Project Name
-
-Description
-
-Technologies
-
-Features
-
-GitHub Button
-
-Nice Icons
-
-Modern Layout
-
-Beautiful Card Design
-
-ONLY use projects from my resume.
-
-11. Education
-
-Generate attractive education cards.
-
-12. Certifications
-
-Generate premium certification cards.
-
-13. Achievements
-
-Generate from resume only.
-
-14. GitHub Analytics
-
-Include
-
-GitHub Stats
-
-GitHub Streak
-
-Top Languages
-
-GitHub Activity Graph
-
-GitHub Trophy
-
-Contribution Snake Animation (if supported)
-
-GitHub Profile Summary Cards
-
-Contribution Graph
-
-Visitor Counter
-
-15. Competitive Programming
-
-Include badges only
-
-LeetCode
-
-CodeChef
-
-GeeksforGeeks
-
-HackerRank
-
-Do NOT invent usernames.
-
-16. Contact Section
-
-Premium Contact Cards
-
-GitHub
-
-LinkedIn
-
-Email
-
-17. Footer
-
-Animated Wave
-
-Thank You Message
-
-Animated Typing Footer
-
-Premium Closing Section
-
-══════════════════════════════════════════════
-DESIGN REQUIREMENTS
-══════════════════════════════════════════════
-
-Use HTML wherever it improves appearance.
-
-Use Markdown where appropriate.
-
-Use responsive tables.
-
-Use premium cards.
-
-Use beautiful spacing.
-
-Use centered layouts.
-
-Use rounded cards.
-
-Use hover badges.
-
-Use modern dividers.
-
-Use premium GitHub widgets.
-
-Use attractive emoji.
-
-Keep everything responsive.
-
-══════════════════════════════════════════════
-OUTPUT RULES
-══════════════════════════════════════════════
-
-Output ONLY README.md.
-
-No explanation.
-
-No markdown fences.
-
-No placeholder text.
-
-No TODO comments.
-
-No fake experience.
-
-No fake projects.
-
-No fake certifications.
-
-No fake GitHub repositories.
-
-The README must be ready to paste directly into GitHub.
-
-The final result should look like the best GitHub profiles on GitHub while accurately representing an entry-level Python developer.
+</div>
